@@ -1,0 +1,5 @@
+﻿  dec_hexadec.c
+c:\users\a. sri harsha\documents\visual studio 2015\projects\assignment2\assignment2\dec_hexadec.c(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\a. sri harsha\documents\visual studio 2015\projects\assignment2\assignment2\dec_hexadec.c(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  assignment2.vcxproj -> c:\users\a. sri harsha\documents\visual studio 2015\Projects\assignment2\Debug\assignment2.exe
+  assignment2.vcxproj -> c:\users\a. sri harsha\documents\visual studio 2015\Projects\assignment2\Debug\assignment2.pdb (Full PDB)
