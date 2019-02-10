@@ -1,0 +1,5 @@
+﻿  rotations.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\rotations_of_string\rotations.c(8): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\rotations_of_string\rotations.c(9): warning C4018: '<': signed/unsigned mismatch
+  rotations_of_string.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\rotations_of_string.exe
+  rotations_of_string.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\rotations_of_string.pdb (Full PDB)

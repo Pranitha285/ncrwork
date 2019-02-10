@@ -1,0 +1,7 @@
+﻿  lower_to_upper.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\lower_to_upper\lower_to_upper.c(9): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\lower_to_upper\lower_to_upper.c(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\lower_to_upper\lower_to_upper.c(24): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\lower_to_upper\lower_to_upper.c(7): warning C4101: 'num': unreferenced local variable
+  lower_to_upper.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\lower_to_upper.exe
+  lower_to_upper.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\lower_to_upper.pdb (Full PDB)

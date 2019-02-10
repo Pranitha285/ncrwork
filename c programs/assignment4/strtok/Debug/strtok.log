@@ -1,0 +1,4 @@
+﻿  strstk.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\strtok\strstk.c(31): warning C4013: 'gets' undefined; assuming extern returning int
+  strtok.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\strtok.exe
+  strtok.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\strtok.pdb (Full PDB)

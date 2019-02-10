@@ -1,0 +1,7 @@
+﻿  string_match.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_match\string_match.c(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_match\string_match.c(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_match\string_match.c(26): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_match\string_match.c(25): warning C4101: 'c': unreferenced local variable
+  string_match.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\string_match.exe
+  string_match.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\string_match.pdb (Full PDB)

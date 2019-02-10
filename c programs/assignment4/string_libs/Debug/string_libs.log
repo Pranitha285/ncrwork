@@ -1,0 +1,12 @@
+﻿  string_libs.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(47): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(47): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(47): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(47): note: this argument is used as a buffer size
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(48): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(48): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(48): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\string_libs\string_libs.c(48): note: this argument is used as a buffer size
+  string_libs.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\string_libs.exe
+  string_libs.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\string_libs.pdb (Full PDB)

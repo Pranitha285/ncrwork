@@ -1,0 +1,7 @@
+﻿  match_s1ands2.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\match_s1ands2\match_s1ands2.c(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\match_s1ands2\match_s1ands2.c(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\match_s1ands2\match_s1ands2.c(26): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\match_s1ands2\match_s1ands2.c(25): warning C4101: 'c': unreferenced local variable
+  match_s1ands2.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\match_s1ands2.exe
+  match_s1ands2.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\match_s1ands2.pdb (Full PDB)

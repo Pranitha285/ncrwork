@@ -1,0 +1,4 @@
+﻿  replace_space.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\replace_space_by_minus\replace_space.c(21): warning C4013: 'gets' undefined; assuming extern returning int
+  replace_space_by_minus.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\replace_space_by_minus.exe
+  replace_space_by_minus.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\replace_space_by_minus.pdb (Full PDB)

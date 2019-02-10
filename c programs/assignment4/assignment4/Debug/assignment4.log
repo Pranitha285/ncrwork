@@ -1,0 +1,5 @@
+﻿  count_e.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\assignment4\count_e.c(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\assignment4\count_e.c(20): warning C4013: 'system' undefined; assuming extern returning int
+  assignment4.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\count_e.exe
+  assignment4.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\count_e.pdb (Full PDB)

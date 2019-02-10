@@ -1,0 +1,4 @@
+﻿  sort_string.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment4\sorting_2d_string\sort_string.c(12): warning C4013: 'gets' undefined; assuming extern returning int
+  sorting_2d_string.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\sorting_2d_string.exe
+  sorting_2d_string.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment4\Debug\sorting_2d_string.pdb (Full PDB)
