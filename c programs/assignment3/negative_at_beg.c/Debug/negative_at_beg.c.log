@@ -1,0 +1,5 @@
+﻿  negative_at_beg.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment3\negative_at_beg.c\negative_at_beg.c(32): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment3\negative_at_beg.c\negative_at_beg.c(6): warning C4101: 'k': unreferenced local variable
+  negative_at_beg.c.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment3\Debug\negative_at_beg.c.exe
+  negative_at_beg.c.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment3\Debug\negative_at_beg.c.pdb (Full PDB)

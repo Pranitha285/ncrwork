@@ -1,0 +1,3 @@
+﻿  subarray.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment3\subarray\subarray.c(26): error C2143: syntax error: missing ';' before '}'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment3\subarray\subarray.c(28): warning C4013: 'system' undefined; assuming extern returning int

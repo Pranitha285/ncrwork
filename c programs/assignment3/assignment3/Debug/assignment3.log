@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (assignment3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bitcount.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment3\assignment3\bitcount.c(13): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\assignment3\assignment3\bitcount.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  assignment3.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment3\Debug\bitcount.exe
+  assignment3.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\assignment3\Debug\bitcount.pdb (Full PDB)
