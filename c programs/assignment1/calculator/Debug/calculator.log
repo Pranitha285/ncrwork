@@ -1,0 +1,15 @@
+﻿  sub.c
+  mul.c
+  main.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\main.c(10): warning C4013: 'add' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\main.c(12): warning C4013: 'sub' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\main.c(14): warning C4013: 'mul' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\main.c(16): warning C4013: 'div' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\main.c(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\main.c(19): warning C4013: 'system' undefined; assuming extern returning int
+  div.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\calculator\div.c(4): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  add.c
+  Generating Code...
+  calculator.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\calculator.exe
+  calculator.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\calculator.pdb (Full PDB)

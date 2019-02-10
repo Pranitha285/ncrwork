@@ -1,0 +1,6 @@
+﻿  char_array.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\character_array\char_array.c(6): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\character_array\char_array.c(8): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\character_array\char_array.c(21): warning C4013: 'system' undefined; assuming extern returning int
+  character_array.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\character_array.exe
+  character_array.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\character_array.pdb (Full PDB)

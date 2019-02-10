@@ -1,0 +1,4 @@
+﻿  pallindrome.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\pallindrome\pallindrome.c(16): warning C4013: 'system' undefined; assuming extern returning int
+  pallindrome.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\pallindrome.exe
+  pallindrome.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\pallindrome.pdb (Full PDB)

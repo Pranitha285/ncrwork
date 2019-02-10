@@ -1,0 +1,4 @@
+﻿  sum_min_max.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\sum_max_min\sum_min_max.c(19): warning C4013: 'system' undefined; assuming extern returning int
+  sum_max_min.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\sum_max_min.exe
+  sum_max_min.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\sum_max_min.pdb (Full PDB)

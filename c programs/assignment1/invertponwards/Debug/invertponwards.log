@@ -1,0 +1,5 @@
+﻿  invertponwards.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\invertponwards\invertponwards.c(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\invertponwards\invertponwards.c(40): warning C4013: 'system' undefined; assuming extern returning int
+  invertponwards.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\invertponwards.exe
+  invertponwards.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\invertponwards.pdb (Full PDB)

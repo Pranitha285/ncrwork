@@ -1,0 +1,4 @@
+﻿  binaryconversion.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\binaryconversion\binaryconversion.c(19): warning C4013: 'system' undefined; assuming extern returning int
+  binaryconversion.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\binaryconversion.exe
+  binaryconversion.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\binaryconversion.pdb (Full PDB)

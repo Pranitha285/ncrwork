@@ -1,0 +1,4 @@
+﻿  armstrong.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\armstrong\armstrong.c(60): warning C4013: 'system' undefined; assuming extern returning int
+  armstrong.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\armstrong.exe
+  armstrong.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\armstrong.pdb (Full PDB)

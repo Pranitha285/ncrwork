@@ -1,0 +1,4 @@
+﻿  sum_of_digits.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\sumofdigits\sum_of_digits.c(12): warning C4013: 'system' undefined; assuming extern returning int
+  sumofdigits.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\sumofdigits.exe
+  sumofdigits.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\sumofdigits.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (noofpositivenumbers.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gross_sal.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\noofpositivenumbers\gross_sal.c(41): warning C4013: 'system' undefined; assuming extern returning int
+  noofpositivenumbers.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\grosssalary.exe
+  noofpositivenumbers.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\grosssalary.pdb (Full PDB)

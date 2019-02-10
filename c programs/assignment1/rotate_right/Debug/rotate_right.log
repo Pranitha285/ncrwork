@@ -1,0 +1,4 @@
+﻿  rotate_right.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\rotate_right\rotate_right.c(17): warning C4013: 'system' undefined; assuming extern returning int
+  rotate_right.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\rotate_right.exe
+  rotate_right.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\rotate_right.pdb (Full PDB)

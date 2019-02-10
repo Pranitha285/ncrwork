@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (assignment1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hexadecimalop.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\assignment1\hexadecimalop.c(18): warning C4013: 'system' undefined; assuming extern returning int
+  assignment1.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\hexadec op.exe
+  assignment1.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\hexadec op.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  dec_bin_hex.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\int_bin_hex\dec_bin_hex.c(55): warning C4013: 'system' undefined; assuming extern returning int
+  int_bin_hex.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\int_bin_hex.exe
+  int_bin_hex.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\int_bin_hex.pdb (Full PDB)

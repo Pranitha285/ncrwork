@@ -1,0 +1,4 @@
+﻿  intersest.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\interest\intersest.c(65): warning C4013: 'system' undefined; assuming extern returning int
+  interest.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\interest.exe
+  interest.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\interest.pdb (Full PDB)

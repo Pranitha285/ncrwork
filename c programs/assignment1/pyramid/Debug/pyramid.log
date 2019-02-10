@@ -1,0 +1,4 @@
+﻿  pyramid.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c programs\assignment1\pyramid\pyramid.c(28): warning C4013: 'system' undefined; assuming extern returning int
+  pyramid.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\pyramid.exe
+  pyramid.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\c programs\assignment1\Debug\pyramid.pdb (Full PDB)
