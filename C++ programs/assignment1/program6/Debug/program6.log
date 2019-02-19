@@ -1,0 +1,4 @@
+﻿  program6.cpp
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c++ programs\assignment1\program6\program6.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  program6.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\C++ programs\assignment1\Debug\program6.exe
+  program6.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\C++ programs\assignment1\Debug\program6.pdb (Full PDB)
