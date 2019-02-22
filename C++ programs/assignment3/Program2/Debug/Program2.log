@@ -1,0 +1,6 @@
+﻿  Program2.cpp
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c++ programs\assignment3\program2\program2.cpp(110): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c++ programs\assignment3\program2\program2.cpp(111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c++ programs\assignment3\program2\program2.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+  Program2.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\C++ programs\assignment3\Debug\Program2.exe
+  Program2.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\C++ programs\assignment3\Debug\Program2.pdb (Partial PDB)

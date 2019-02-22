@@ -1,0 +1,4 @@
+﻿  Program4.cpp
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\c++ programs\assignment2\program4\program4.cpp(34): warning C4285: return type for 'complex::operator ->' is recursive if applied using infix notation
+  Program4.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\C++ programs\assignment2\Debug\Program4.exe
+  Program4.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\C++ programs\assignment2\Debug\Program4.pdb (Partial PDB)
