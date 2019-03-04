@@ -1,0 +1,5 @@
+﻿  avl.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\trees\avl.c\avl.c(4): warning C4005: 'max': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1282): note: see previous definition of 'max'
+  avl.c.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\trees\Debug\avl.c.exe
+  avl.c.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\trees\Debug\avl.c.pdb (Partial PDB)

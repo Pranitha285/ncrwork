@@ -1,0 +1,4 @@
+﻿  quicksort.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\sorts and searches\quicksort\quicksort.c(72): warning C4013: 'system' undefined; assuming extern returning int
+  quicksort.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\sorts and searches\Debug\quicksort.exe
+  quicksort.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\sorts and searches\Debug\quicksort.pdb (Partial PDB)

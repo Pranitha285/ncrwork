@@ -1,0 +1,4 @@
+﻿  insertionsort.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\sorts and searches\insertionsort\insertionsort.c(45): warning C4013: 'system' undefined; assuming extern returning int
+  insertionsort.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\sorts and searches\Debug\insertionsort.exe
+  insertionsort.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\sorts and searches\Debug\insertionsort.pdb (Partial PDB)

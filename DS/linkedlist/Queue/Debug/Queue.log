@@ -1,0 +1,7 @@
+﻿  queue.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\linkedlist\queue\queue.c(30): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\linkedlist\queue\queue.c(34): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\linkedlist\queue\queue.c(39): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\ds\linkedlist\queue\queue.c(58): warning C4013: 'free' undefined; assuming extern returning int
+  Queue.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\linkedlist\Debug\Queue.exe
+  Queue.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\DS\linkedlist\Debug\Queue.pdb (Partial PDB)
