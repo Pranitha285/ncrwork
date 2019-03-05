@@ -1,0 +1,5 @@
+﻿  Program6.cpp
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program6\program6.cpp(9): warning C4101: 'hThread': unreferenced local variable
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program6\program6.cpp(8): warning C4101: 'hProcess': unreferenced local variable
+  Program6.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\Windows_Internals\Assignment\Debug\Program6.exe
+  Program6.vcxproj -> C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\Windows_Internals\Assignment\Debug\Program6.pdb (Partial PDB)

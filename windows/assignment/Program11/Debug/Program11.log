@@ -1,0 +1,13 @@
+﻿  Source1.cpp
+  Source.cpp
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(40): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(40): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(42): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(55): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(76): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(78): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(30): warning C4101: 'nbr': unreferenced local variable
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\windows_internals\assignment\program11\source.cpp(11): warning C4101: 'buff': unreferenced local variable
+  Generating Code...
