@@ -1,0 +1,6 @@
+﻿  Program13.c
+c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\repeated_programs\repeated_programs\program13.c(38): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\repeated_programs\repeated_programs\program13.c(38): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\repeated_programs\repeated_programs\program13.c(38): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\a. sri harsha\source\repos\pranitha285\ncrwork\repeated_programs\repeated_programs\program13.c(38): note: this argument is used as a buffer size
+LINK : fatal error LNK1168: cannot open C:\Users\A. SRI HARSHA\Source\Repos\Pranitha285\ncrwork\repeated_Programs\Debug\repeated_Programs.exe for writing
